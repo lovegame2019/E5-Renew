@@ -99,7 +99,7 @@ async function getToken() {
         'refresh_token': _refresh_token,
         'client_id': process.env.CLIENT_ID,
         'client_secret': encodeURIComponent(process.env.CLIENT_SECRET!),
-        'redirect_uri': 'http://localhost:53682/'
+        
     };
 
     const request = await axios.post('https://login.microsoftonline.com/common/oauth2/v2.0/token',
