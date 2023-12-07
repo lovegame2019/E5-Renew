@@ -4,7 +4,7 @@ Welcome to E5 Dev renewal, here you will learn how to auto renew your E5 dev pro
 
 ## Creating A Web Application in Azure Active Directory
 
-- Head over to [App Registration | Azure Portal](https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade) page where you can see all the applications registered. Here, we're going to add a new application. If you are not able to open the link, go to [Azure Porta](https://portal.azure.com) and on the top searchbar, type app registrations and click on the first item, it will look like this ![App registrations](/public/1.png)
+- Head over to [App Registration | Azure Portal](https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade) page where you can see all the applications registered. Here, we're going to add a new application. If you are not able to open the link, go to [Azure Portal](https://portal.azure.com) and on the top searchbar, type app registrations and click on the first item, it will look like this ![App registrations](/public/1.png)
 
 - Click on the new registration button on the app regisrtations page.
 
